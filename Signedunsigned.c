@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main()
+{
+    int i=11;  //singned
+    int j=-11; //singned
+    unsigned int k=11; //unsigned
+    signed int a=11;  //signed
+    signed int b=-11; //signed
+
+    
+
+    return 0;
+}
